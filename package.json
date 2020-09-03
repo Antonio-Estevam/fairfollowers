@@ -1,0 +1,15 @@
+{
+  "name": "bot_coment_instagram",
+  "version": "1.0.0",
+  "description": "Bot para ler comentarios em publicação no instragam ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Antonio",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "puppeteer": "^5.2.1"
+  }
+}
